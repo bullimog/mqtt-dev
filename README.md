@@ -1,2 +1,2 @@
 # mqtt-dev
-Simple MQTT snadpit
+Simple MQTT sandpit
